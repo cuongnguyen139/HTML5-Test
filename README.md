@@ -16,5 +16,3 @@ You can visit the deployed app, at [https://cuongnguyen139.github.io/HTML5-Test/
     ```sh
     npm start
     ````
-# HTML5-Test
-# HTML5-Test
